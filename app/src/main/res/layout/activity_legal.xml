@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Legal"
+    android:orientation="vertical"
+    android:background="@drawable/bg_signinpage">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_case"
+        android:text="Legal Action"
+        android:textSize="32sp"
+        android:textColor="#ffffff"
+        android:layout_gravity="center"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/b1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Shangkhipto Shironama"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Shonga"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ainer Pradhanno"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dohonkari, ittadi podhartho dara shonghotito oporadher shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nari o Shishu Opohoroner Shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Muktipon Adayer Shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Muktipon Adayer Shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dhorshon, Dhorshonjonito karone mrittu , ittadir shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Narir attohottay proroshona, ittadir shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Jouno piron, ittadir shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Joutuker jonno mrittu ghotano, ittadir shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Joutuker jonno mrittu ghotano, ittadir shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dhorshoner folsrutite jonmolabhkari shishu shonkranto bidhan"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dhorshoner folsrutite jonmolabhkari shishu shonkranto bidhan"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Shongbad maddhome nirjatito nari o shishur porichoy prokasher bepare badha-nishedh"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bhobishshot Shompotti hoite orthondondo aday"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Orthodondo ba khotipuron adayer poddhoti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mittha mamla, obhijog dayer ittadir shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Oporadher Todonto"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Oporadh bicharartho grohon, ittadi"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Oporadh bicharartho grohon, ittadi"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ashamir onuposthite bichar"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Magistrate kortrik je kono sthaney jobanbondi grohoner khomota"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rashayonik porikkhok, rokto porikkhok, ittadir shakkho"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="shakkhir uposthiti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Foujdari karjobidhir proyog, ittadi"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nari o shishu nirjaton domon tribunal"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tribunal er ekhtiyar"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Appeal"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mrittudondo onumodon"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Oporadhey prorochona ba shohaytar shasti"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b32"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nirapottamulok hefajot"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b33"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tribunal, ittadir jobabdihita"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b34"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Oporadher Shikar bektir medical porikkha"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b35"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bidhi pronoyoner khomota"
+                android:textSize="26sp"/>
+
+            <Button
+                android:id="@+id/b36"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1995 shon er 18no. ainer rohitokoron o hefajot"
+                android:textSize="26sp"/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

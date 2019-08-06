@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hackathonapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Button36"></activity>
+        <activity android:name=".Button35" />
+        <activity android:name=".Button34" />
+        <activity android:name=".Button33" />
+        <activity android:name=".Button32" />
+        <activity android:name=".Button31" />
+        <activity android:name=".Button30" />
+        <activity android:name=".Button29" />
+        <activity android:name=".Button28" />
+        <activity android:name=".Button27" />
+        <activity android:name=".Button26" />
+        <activity android:name=".Button25" />
+        <activity android:name=".Button24" />
+        <activity android:name=".Button23" />
+        <activity android:name=".Button22" />
+        <activity android:name=".Button21" />
+        <activity android:name=".Button20" />
+        <activity android:name=".Button19" />
+        <activity android:name=".Button18" />
+        <activity android:name=".Button17" />
+        <activity android:name=".Button16" />
+        <activity android:name=".Button15" />
+        <activity android:name=".Button14" />
+        <activity android:name=".Button13" />
+        <activity android:name=".Button12" />
+        <activity android:name=".Button11" />
+        <activity android:name=".Button10" />
+        <activity android:name=".Button9" />
+        <activity android:name=".Button8" />
+        <activity android:name=".Button7" />
+        <activity android:name=".Button6" />
+        <activity android:name=".Button5" />
+        <activity android:name=".Button4" />
+        <activity android:name=".Button3" />
+        <activity android:name=".Button2" />
+        <activity android:name=".selfdef" />
+        <activity android:name=".Button1" />
+        <activity android:name=".Legal" />
+        <activity android:name=".Fun_page" />
+        <activity android:name=".SignupPage" />
+        <activity
+            android:name=".MainPage"
+            android:label="@string/title_activity_main_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ForgetPass" />
+        <activity android:name=".SignInPage" />
+        <activity android:name=".LandingPage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
